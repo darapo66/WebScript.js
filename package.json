@@ -1,0 +1,22 @@
+{
+  "name": "webscript.js",
+  "version": "Beta 1.0.0",
+  "description": "A javascript frontend framework that is compatible with both vanilla js and node.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "frontend",
+    "framework",
+    "vanillajs",
+    "node.js"
+  ],
+  "author": "Dárius Kočiš",
+  "license": "MIT"
+}
